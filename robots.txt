@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: mobilnye-kazino-bezdep.github.io
+Sitemap: https://mobilnye-kazino-bezdep.github.io/sitemap.xml
